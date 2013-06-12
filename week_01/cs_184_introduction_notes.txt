@@ -1,0 +1,86 @@
+CS184 Stanford Startup Engineering - Introduction
+
+
+What is a Startup?
+
+A startup is a business built to grow extremely rapidly (see Paul Graham article). Today startups are strongly associated with Silicon Valley, computer science, venture capital, and the internet. But it was not always so.
+
+
+Startups in the Past
+
+1800s: Oil, Steel, Pharmaceuticals, Telegraphs
+1900s: Automobile, Aviation, Telephone
+
+Many similarities exist between these earlier startup eras and the present. One of the most important features of these early startup industries was the initially relatively low cost of capital required to start a business and the wide-open regulatory (no permitting process), technological, and physical frontiers.
+
+Initially, there are low barriers to entry. Large companies and regulators encode assumptions into law (banning MVP).
+
+Sigmoidal curve: explosion of startups, few pioneers at top, then capital/tech/regulatory barriers discourage entry.
+
+
+Startups in the Present
+
+Technological developments + Market Developments
+1989-1992: Berlin Wall, Collapse of the Soviet Union, World turns to free markets (USSR, Eastern Europe, China, India)... People were now free to start businesses, practice entrepreneurship, communicate with neighbors, self-publish materials. Free-flowing information (total state control over information was characteristic of the entire Eastern Bloc). In a perfectly globalized economy, any transaction between two parties is legal. The "globalization coefficient" represents the proportion of allowed transactions. But how were these people on different continents going to trade with each other?
+
+Internet startup: a business which can start small and scale to the entire world, accepting payments and providing services to anyone on the planet without need for natural resources, expensive permits, or human clerks.
+
+National Science Foundation Acceptable Use Policy Repeal:
+The Internet is Open for Business
+
+Commerce was restricted. Fear of spam, porn, malware. Internet was for academia, government, and military (tuition, grants, tax revenue - not profit). 1992 Congress repealed the policy. Commercial and ISPs were freed. Pioneering phase begins.
+
+
+Key Features of Internet Startups
+
+Internet startups are distinct from other operations. These all work synergistically to produce the phenomenon of the internet startup.
+-Operational Scalability: Low cost-per-transaction vs. physical store
+-Market Size: No longer constrained (or protected) by geography.
+-Generality: Software is the most general product imaginable. Software is eating the world (see Andreesen article). Software skills are highly portable.
+-Low Capital Barriers: A general purpose computer and an internet connection is all that's needed to develop arbitrary software. You own the means of production.
+-Low Regulatory Barriers: The internet is still mostly unregulated.
+-Open Source: Internet is built on OS technologies.
+-The Long Tail: Micro-targeting is possible for markets. Massive collaboration is also possible.
+-Failure Tolerance: Plane crash vs. website crash. "Move fast and break things."
+Amenable to Titration: Hybrid physical and software businesses.
+
+NOTE: Dot-com boom and bust. Overestimated change in the short run, underestimated change in the long run. The key question may be whether the internet will change its character in the event of a significant reduction in US/EU strength.
+
+
+Technological Trends Toward Mobility and Decentralization
+
+What does the future of startups look like? Continued decentralization and individual mobility. There has been a sharp reduction in the emotional cost of changing physical location.
+
+
+What is Startup Engineering?
+
+Philosophy -> Practicality. Rapid ricochet between abstract theory and down-and-dirty practice is critical in startups.
+
+*Startup Engineering means getting something to work well enough for people to buy. Different from academia (just publish a paper - zero customers), and "architecture astronauts" (planning for infinite customers before the first sale). Startup engineering means shipping a saleable product.
+
+
+Technologies
+
+Systems integration. Choice of language may not matter, but in practice the right tools can be invaluable. Choose the best technology and then forget about to focus *entirely* on building your product. Outside of core technology, be as boring as possible until you make serious profit from your product. Tech stacks evolve rapidly, so gain advantage by selecting the best available from the beginning. Then develop your product, since radical tech shifts (changing frameworks) become an excuse for not working on the product.
+
+Developer Tools (unix, CL)
+Front-end (HTML/CSS/JS, Browser)
+Back-end (SSJS, devops)
+Service Oriented Architecture
+
+
+Design, Marketing, and Sales
+
+Be mindful that as a founder you will have to deal with a million little things that you never could have possibly prepared for. But the benefit from the ability to handle those things not taught in engineering class (design, marketing, sales) are critical.
+
+
+Why Mobile HTML5 for the Final Project?
+
+Mobile is the Future: And it continues to accelerate.
+Location-Independence Increases Scope: Mobile space continues evolving as well.
+Simplicity: Constraint to mobile keeps things simple.
+Ubiquity: Deploying to a browser makes things available everywhere.
+JS is the Future (Steve Yegge Article): Browser (v8), Server (node.js), Client (Backbone), Databases (MongoDB), Data (JSON)
+
+
+Time to Start Coding.

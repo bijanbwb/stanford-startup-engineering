@@ -1,0 +1,36 @@
+CS184 Resources:
+
+Application Info:
+First Instance:
+EC2 Instance: i-527a3667
+EC2 Link: ec2-54-218-14-45.us-west-2.compute.amazonaws.com
+Heroku Link: http://murmuring-waters-4618.herokuapp.com/
+
+Second Instance:
+EC2 Instance: i-18d0992d
+EC2 Link: ec2-54-218-18-97.us-west-2.compute.amazonaws.com
+
+
+Startups:
+Peter Thiel CS183
+Paul Graham Essays
+Steve Yegge Essays
+
+
+Javascript:
+Eloquent Javascript
+Javascript The Definitive Guide
+Javascript The Good Parts
+
+
+Linux and Unix:
+A Practical Guide to Linux
+Unix and Linux System Administration Handbook
+Unix Power Tools
+Pro Git
+Command Line Crash Course
+
+Web Technologies:
+AWS Documentation
+Github Documentation
+Heroku Documentation

@@ -1,0 +1,92 @@
+CS184 Stanford Startup Startup Engineering - Week 2 Notes
+
+
+Linux:
+Command Line Interface
+OS: Unix, Linux, BSD, OS X, Open Source, Ubuntu
+IAAS, PAAS, SAAS
+Linux Basics: ssh, bash, $PATH, env, scripts, screen, apt-get, make
+Software: apache, screen, nodejs, npm, nginx, PostgreSQL, sqlite, emacs
+
+
+The Command Line:
+Books:
+A Practical Guide to Linux
+Unix and Linux System Administration Handbook
+Unix Power Tools
+Command Line Crash Course
+Pro Git
+
+Streams: STDIN, SDOUT, SDERR
+Text Processing: grep, sed, awk
+DVCS: git, SHA-1 hash, Github
+Text Editing: emacs, vim, REPL, keyboard
+
+
+Commands:
+Navigation Commands:
+ls
+touch
+echo
+cp
+mv
+rm
+ln
+pwd
+mkdir
+rmdir
+
+Network Commands:
+rsync
+wget
+curl
+ping
+
+Text Processing Commands:
+less
+cat
+head
+tail
+cut
+nl
+paste
+sort
+uniq
+wc
+split
+
+Help Commands:
+man
+info
+
+System and Program Info Commands:
+uname
+hostname
+whoami
+ps
+top
+kill
+
+Superuser Commands
+sudo
+su
+
+Storage and Finding Commands:
+tar
+gzip
+find
+locate
+df
+du
+
+Text Processing Commands:
+grep
+sed
+awk
+
+Bash Commands:
+backticks
+background processes (foo &)
+xargs
+tee
+time

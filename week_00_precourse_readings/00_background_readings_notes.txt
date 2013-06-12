@@ -1,0 +1,43 @@
+CS184 Stanford Startup Engineering - Background Readings
+
+
+Why Software is Eating the World:
+Internet companies are real, high-growth, high-margin, highly-defensible businesses. Software has intrinsic value, and it is disrupting large swathes of the economy (view article for examples). America offers great universities, a pro-risk business culture, deep pools of capital, and reliable business/contract law. Education and skills are imperative.
+Company Requisites:
+Build Strong Cultures
+Delight Customers
+Establish Competitive Advantage(s)
+Strong
+Resilient
+Work Hard
+Justify Valuation
+Prove Worth
+
+
+The Rise & Fall of Personal Computing:
+Phases:
+1985-1991: Rapid growth, multiple standards
+1991-2007: Microsoft monopoly, Apple survives
+2007-NOW: iPhone, Android, iPad
+
+
+Internet Trends: 
+Internet adoption remains robust. Mobile is still early.
+Do not ignore mobile growth, iPad even moreso, still huge upside.
+Mobile monetization: 66% apps, 33% ads
+Re-imagination: devices, UI, connectivity, knowledge, design, learning, data, sharing, EVERYTHING (view examples).
+Asset-heavy lifestyle shifting to asset-light lifestyle
+"Easier for consumers to get what they want. Easier for crafty and flexible people to make money."
+USA Inc: Many problems remain on the horizon. Biggest gap between revenue and expenses since WWI & WWII. 60% of taxes go to Entitlements (SS, Medicare). USA continues to build massive debt.
+
+
+Facebook Class:
+Make an app (no frills) > Distribute Quickly > Get users > Iterate > Repeat > Lean Startup
+Sprint: Product to company
+Startups: keep costs low, quick revenue, move quickly, emulate success, ambitious, non-traditional
+
+
+The Social Network:
+CS Degrees were previously theory-oriented. No application.
+Transitioning to engineering in practice. Breadth of careers available (job growth 2x).
+Tackle real-world problems. Learn skills, theorems, code along the way. Solve the problem. Build something. Learn the skills as you progress.

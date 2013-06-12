@@ -1,0 +1,47 @@
+CS184 Stanford Startup Engineering - Startup Equals Growth
+
+Growth:
+A startup is a company designed to grow fast.
+Startups are so difficult that you can't be distracted. Growth is what you're after.
+But if you get growth, everything else falls into place. It becomes a compass for every decision.
+
+
+Ideas:
+Startups must scale, and also require a big market.
+1. Make something lots of people want.
+2. Reach and serve all those people.
+Startups also require novel ideas. Most are formed by people who view from a different perspective. You must see different problems. Startups are connected to tech because rapid change uncovers big, soluble problems. Tech also creates new ways of doing things.
+
+
+*Growth Rate:
+Startups are a "declaration of ambition."
+Slope = growth rate. You MUST know growth rate.
+Growth rate is the measure of a startup. If you don't know, then you don't have an idea of whether you're doing good or bad.
+Measure the ratio of new customers to existing ones.
+Early on, use growth rate/week.
+Measure by: Revenue, Active Users
+Stages: Slow Initial Growth > Rapid Growth > Big Company
+Bad: 1%
+Good: 5%-7%
+Exceptional: 10%
+
+
+Compass:
+Pick a growth target. Hit it every week This provides focus. It reduces a million possible decisions to a single problem (optimization). You still think of the future, but no more than necessary. It forces you into action.
+
+
+Value: Small variations in growth rate produce qualitatively different outcomes.
+(In four years: 1% growth means $8k/month vs 5% means $25M/month).
+Concept of Expected Value
+
+
+Deals:
+Investment = Return:Risk
+VC funding allows for rapid growth. You get to choose your growth rate.
+A rapidly growing company is valuable. Startups are considered dangerous to big companies. Acquisitions are common.
+
+
+*Conclusion:
+There is no secret to making things work. If you want to understand startups then understand growth.
+
+"What you're really doing when you start a startup is committing to solve a harder type of problem than ordinary businesses do. You're committing to search for one of the rare ideas that generates rapid growth. Because these ideas are so valuable, finding one is hard. The startup is the embodiment of your discoveries so far."

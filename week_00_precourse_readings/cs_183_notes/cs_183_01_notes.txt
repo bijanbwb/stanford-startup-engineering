@@ -1,0 +1,48 @@
+CS183 Stanford Startup Engineering - Class 1 - The Challenge of the Future
+
+Our World: Retail Sanity, Wholesale Madness
+The Big Challenge: Integrate Macro/Micro such that all things make sense. Details > Big Picture.
+Humanities: Worldly knowledge, no career skills.
+Engineering: Technical detail, no how/why
+Aim of the course: Integrate these into a cohesive narrative
+
+
+I. History of Technology
+Most of Human History: Scarcity and limited means, getting ahead meant taking it.
+Claiming value vs. creating value
+1600s-1960s: Relentless technological progress, progress is slowing
+
+
+II. The Case for Computer Science
+CS is an exception and continues growth. It is the starting place to recapture the reigns of progress. Ever-improving hardware, agile development, a model for other industries.
+
+
+III. Future of Progress
+Horizontal progress: copying what works (globalization).
+Vertical progress: doing new things ("Technology"). Crucially important, though it's almost impossible for us to see this.
+"Any founder or inventor doing something novel must wonder: am I sane or crazy?"
+America & Exceptionalism
+Education is good for horizontal thinking, but startups require more. Business school can't teach a lot of this. It can't really be taught.
+"You have to do something important and do it right."
+Assessing the probability of success: old business can analyze and predict (statistics). Startups don't have this luxury (calculus).
+Intensive progress theories: Convergence + Cyclical... Destruction + Singularity (Underestimated)
+
+
+IV. Why Companies?
+Companies optimally address external and internal coordination costs. As an entity grows, so too do its internal coordination costs. Central government clearly doesn't work. Independent contractors represent zero internal cost, but external costs of coordinating them are paralyzing.
+
+
+V. Why Startups?
+Size and costs matter. A lot. Limits and constraints are important.
+Startups are important _because_ they're small. Low interpersonal and internal costs mean it's easier to _get stuff done_.
+Big Companies/Govt/Non-profit: Bureaucracy & Impersonal
+Motivation: Money, Respect/Fame/Remembrance, *Change the world*
+
+
+VI. Where to Start?
+What is Valuable? (Value)
+What can I do? (Execution)
+What is nobody else doing? (Novel)
+
+"What important truth do very few people agree with you on?"
+"What valuable company is nobody building?"
