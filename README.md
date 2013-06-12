@@ -1,2 +1,1 @@
-startup_engineering
-===================
+Stanford Startup Engineering Course
