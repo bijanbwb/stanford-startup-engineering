@@ -1,0 +1,49 @@
+Stanford Startup Engineering - Class 5 - The Mechanics of Mafia
+
+
+I. Company Cultures
+
+Anti-culture (consulting firms) < Ideal Culture (early MSFT) < Cult
+A good company culture distinguishes you from the rest of the world. "If the core people share a relevant and unique philosophy about something important, you're onto something."
+
+Surprisingly, having different and quirky people can make for stronger culture. They can be different in a way that gives the company a strong sense of identity and provide different problem-solving perspective.
+
+
+II. Zero Sum vs. Not
+
+Don't set out just to compete. To succeed you need to work intensely. But work on something that others aren't doing. Not zero-sum. Avoid fighting, but where you must, fight and win.
+
+Athletes and nerds: Companies of athletes will compete endlessly, companies of engineers will not fight. Strike a balance.
+
+Optimal: monopoly capitalism with combination of zero-sum and non-zero-sum-oriented people. You're in an environment where you don't have to fight; but you certainly could if you need to.
+
+
+III. Conversation with Stephen Cohen (Palantir) and Max Levchin (Paypal)
+
+How do you build culture? "Since that would take a long time to pull off, they knew that they needed really brilliant people working together under a shared long-term perspective." 
+
+*The three major properties: very talented people, long-term orientation, people are constantly creating. It is a mistake to think that culture can create these properties. It can enhance them, but culture won't change people from untalented to talented or shift their focus from short-term to long-term. Thus hiring is absolutely fucking critical.*
+
+The notion that diversity in an early team is good is completely wrong. Try to make the early team as non-diverse as possible. All startups have is speed, and moving fast is way harder with a diverse early group that won't find common ground. Cohesion and lack of debate is important. Focus on your network and stick with more of the same if things are working well. Don't hire people that just clearly won't fit in. "Whenever there's any doubt, there's no doubt."
+
+"Good stuff shows itself. Talent shows itself. It doesn't talk about itself. Watch what people show you instead of listening to what they're telling you."
+
+Don't worry about quirks too much. Sometimes small things have nothing to do with whether or not someone is genuinely talented. And talented people are almost always quirky. The right question is how badass they are. Example: anti-fashion bias.
+
+People would physically fight, but if you asked them if they respected each other the answer was obvious. People need to trust their teammates to deliver, not talk about each other behind each other's backs. Disharmony can even signal some healthy dynamics. Avoid: passive-aggressive lack of respect.
+
+If there are issues. Make them surface immediately. Companies get destroyed faster by internal failure before competition.
+
+Key questions: How does this person see himself? Why did you make the major decisions that you made in the past? Have they processed the emotions behind those decisions and taken responsibility for them?
+
+Also be wary of salary negotiators. People should want to take stock in the company and care less about money.
+
+*"There is no sum of money that you could pay any engineer to go all-out for ten years. Humans can’t muster that amount of sustained focus and energy if they don’t love what they’re doing."
+
+"Engineering compensation is difficult right now. You’re competing with Google’s prestige and money. The first step is to avoid competing on purely financial terms, where you’re likely to lose. You have to have that compelling monopoly narrative that we discussed last week."
+
+"To win, you need to tell a story about cogs. At Google, you’re a cog. Whereas with me, you’re an instrumental piece of this great thing that we’ll build together. Articulate the vision. Don’t even try to pay well. Meet people’s cash flow needs. Pay them so they can cover their rent and go out every once in awhile. It’s not about cash. It’s about breaking through the wall of cynicism."
+
+*Realize that intelligence is compounding. You need to keep your competitive edge. Keep being the best. Fall in love with new stuff. Don't get complacent. Keep learning. Be agile.
+
+Make the decisions that matter.

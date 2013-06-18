@@ -1,0 +1,55 @@
+CS183 Stanford Startup Engineering - Class 3 - Value Systems
+
+Recap:
+1. What can I do? What do I think is valuable? What do I see others not doing? "What valuable company is nobody building?"
+2. 1990s: Valuations were psychosocial. Avoid this herd-like confusion.
+Class 3 Aim: Determine businesses' objective value. One way is financial/economic.
+
+
+Great Companies:
+1. Create Value
+2. Durable & Lasting
+3. Capture some of that created value
+
+
+Valuation:
+Multiples & Comparables
+Pre-money Valuation (via Guy Kawasaki) = ($1M * n_engineers) - ($500l * n_MBAs)
+Price-Earnings Ratio (PER): market value / earnings (ie, stock price / net income)
+Price/Earnings to Growth Ratio (PEG): (market value / earnings) / annual earnings growth
+PEG = *good indicator*
+Analysis should factor in many points in time, not just the current moment (calculus).
+Tech/high-growth firms require different thinking, not old economy mode
+*10-15 year thinking* (Paypal, LinkedIn)
+
+
+Durability:
+Last Mover is better than First Mover advantage.
+"You must study the endgame before everything else."
+
+
+Capturing Value:
+Supply & Demand Intersection: Perfect Competition vs. Monopoly (*Own the Market*)
+Really valuable businesses are monopolies:
+Last movers
+Create Value
+Sustainable
+Decisive Advantages *critical* (Paypal had technological innovation and product innovation)
+
+Monopolies are not necessarily bad. Competition can be overrated. Winning by a large margin is preferable to ruthless competition.
+
+*Be motivated by having high ambition. Make the world a smaller place. Don't work in big markets. Find or make a small market. Excel and own it. Someone has to be the best. Bigger markets just make it harder to be number one (ie, valedictorian in a huge class or small class). The idea that a bigger market is better is _wrong_ (restaurants).
+
+
+Venture Capital (model of success):
+Small, successful networks
+Driven by relationships
+Personal
+Idiosyncratic
+
+
+What valuable company are others not building?
+Relationship-driven
+Create value
+Last
+Make Money
