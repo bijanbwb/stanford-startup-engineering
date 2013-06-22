@@ -1,14 +1,19 @@
 CS184 Resources:
 
 Application Info:
-First Instance:
+First Stanford Instance:
 EC2 Instance: i-527a3667
 EC2 Link: ec2-54-218-14-45.us-west-2.compute.amazonaws.com
 Heroku Link: http://murmuring-waters-4618.herokuapp.com/
 
-Second Instance:
+Second Stanford Instance:
 EC2 Instance: i-18d0992d
 EC2 Link: ec2-54-218-18-97.us-west-2.compute.amazonaws.com
+
+Coursera Instance:
+EC2 Instance: i-f6dff7c3
+EC2 Link: ec2-54-218-54-194.us-west-2.compute.amazonaws.com
+Heroku Link: http://stormy-gorge-3159.herokuapp.com
 
 
 Startups:
