@@ -1,0 +1,40 @@
+Stanford Startup Engineering - Class 6 - Thiel's Law
+
+
+I. Origins, Rules, Culture
+
+There are certain rules that you simply must follow when you start a business. A startup messed up at its foundation cannot be fixed. Beginnings of things are very important. "Founders and founding moments." Foundings are temporal, and perhaps they last as long as the company's technical innovation continues.
+
+Get the early stuff as right as possible: high-trust people, good alignment structure. Everyone must be going in the same direction, and not by accident. Equity alignment: founders, angels, early employees, advisors all get equity. Everything must be aligned and _everything_ matters, which is why the founding teams are so crucial.
+
+
+II. You Should Be a Delaware C-Corp
+
+Setting up the company is one of the straightforward parts. Delaware C corps: legitimacy, basic structure, easy exits, and clear business law.
+
+
+III. Ownership, Possession, Control
+
+Always think about how things can get misaligned. Ownership is who owns the company (equity amounts). Possession is who operates the company day-to-day. Control is who exercises formal control over the company (board). Things can get messy here. The more people you add, the more complex things get. And things get considerably more complicated as investors are added to the mix.
+
+
+IV. Founders and Employees
+
+Achieve alignment between: Founders, employees, early investors. Equity is the classic alignment tool. CEO salary should be low, the lower it is the better the company tends to do. In the event of trouble a CEO would protect their high salary rather than fix the company. This creates an *equity-focused culture.* You do what's best for the company because that's what is best for everyone, including yourself.
+
+Fully commit or don't even start. Part-time or other jobs or consultants are warning signs that people aren't in it for the long-term. People need to care. A lot. Think carefully and commit fully.
+
+Equity should be given over time (4y, 25% at 1y cliff, then 1/48th each month for 3y).
+
+*Never hire any consultants. They inherently mean bringing in people that are not committed. Everyone needs to be on board, rowing really hard in the same direction.*
+
+
+V. Equity
+
+Forms of equity: Common stock (number of shares - meaningless - percentage of firm ownership matters). Stock option (options become more valuable as the company becomes more valuable). Incentive stock options. Restricted stock.
+
+The crucial takeaway is that most measures of equity are irrelevant. What matters is your share of the company. In practice, equity shares go down as you add more people.
+
+
+VI. The Fundraising Process
+
