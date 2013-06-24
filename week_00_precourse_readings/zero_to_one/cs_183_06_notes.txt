@@ -38,3 +38,24 @@ The crucial takeaway is that most measures of equity are irrelevant. What matter
 
 VI. The Fundraising Process
 
+Angel investors (>$1M worth and >$200k income) come first. They add experience, connections, and credibility. Angel Math Example: start with 2M shares for founders + 200k shares to Angel + 800k shares to 8 employees = 3M total shares (founders have 1/3 of the company). Convertible notes can be an alternative worth considering. Then VC Series A Round.
+
+
+VII. Investor Protection
+
+Devices to help protect VC investments, such as liquidation preferences. Investors tend to get their money back before anyone else does. As a rule, you should never have a down round. They result in everyone getting really mad and blaming everyone else.
+
+
+VIII. More Investor Protection
+
+Restrictions on sales are commonly used and early employees are limited from cashing out. But this aligns founders and VCs around the growth of a company's equity. There are a number of other concepts worth learning about, understanding, and negotiating.
+
+
+IX. The Board
+
+The board of directors is responsible for corporate governance. They are in charge, and their importance can't be overstated. Ideal board is simply one VC and two founders. If they are great people and aligned properly then the low number needed on the board is an advantage.
+
+
+X. Planning for the Future
+
+Building a company is a long journey. One key question to keep in mind is dilution as more people are added to the company. So this stresses the importance of making sure the best people are involved. Make sure you have the right people that you want and need on board.
