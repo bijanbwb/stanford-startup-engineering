@@ -29,11 +29,17 @@ Javascript The Good Parts
 
 
 Linux and Unix:
+In the Beginning was the Command Line
+The Cathedral and the Bazaar
+Learn the Command Line the Hard Way
+LinuxComman.org
+Unix Tutorial for Beginners
+Bash Command Line Shortcuts
 A Practical Guide to Linux
 Unix and Linux System Administration Handbook
 Unix Power Tools
 Pro Git
-Command Line Crash Course
+
 
 Web Technologies:
 AWS Documentation
