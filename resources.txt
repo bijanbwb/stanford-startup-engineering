@@ -1,19 +1,18 @@
 CS184 Resources:
 
-Application Info:
-First Stanford Instance:
+Stanford Instance (Terminated)
 EC2 Instance: i-527a3667
 EC2 Link: ec2-54-218-14-45.us-west-2.compute.amazonaws.com
 Heroku Link: http://murmuring-waters-4618.herokuapp.com/
 
-Second Stanford Instance:
-EC2 Instance: i-18d0992d
-EC2 Link: ec2-54-218-18-97.us-west-2.compute.amazonaws.com
-
-Coursera Instance:
+Coursera Instance (Terminated)
 EC2 Instance: i-f6dff7c3
 EC2 Link: ec2-54-218-54-194.us-west-2.compute.amazonaws.com
 Heroku Link: http://stormy-gorge-3159.herokuapp.com
+
+Current Instance:
+EC2 Instance: i-18d0992d
+EC2 Link: ec2-54-218-18-97.us-west-2.compute.amazonaws.com
 
 
 Startups:
@@ -32,13 +31,15 @@ Linux and Unix:
 In the Beginning was the Command Line
 The Cathedral and the Bazaar
 Learn the Command Line the Hard Way
-LinuxComman.org
+LinuxCommand.org
 Unix Tutorial for Beginners
 Bash Command Line Shortcuts
 A Practical Guide to Linux
 Unix and Linux System Administration Handbook
 Unix Power Tools
 Pro Git
+Screen Tutorials
+Emacs Tutorials
 
 
 Web Technologies:
