@@ -13,6 +13,7 @@ Heroku Link: http://stormy-gorge-3159.herokuapp.com
 Current Instance:
 EC2 Instance: i-18d0992d
 EC2 Link: ec2-54-218-18-97.us-west-2.compute.amazonaws.com
+Heroku Link: http://cryptic-spire-7925.herokuapp.com
 
 
 Startups:
@@ -46,3 +47,12 @@ Web Technologies:
 AWS Documentation
 Github Documentation
 Heroku Documentation
+
+
+Grading:
+HW1 Quiz: 3/3
+HW1 Programming Assignment: 4/4
+HW2 Quiz: 10/10
+HW2 Programming Assignment: NA
+HW3 Quiz: 15/15
+HW3 Programming Assignment:
