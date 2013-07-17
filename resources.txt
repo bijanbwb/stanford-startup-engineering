@@ -49,6 +49,10 @@ Github Documentation
 Heroku Documentation
 
 
+Design:
+The Non-Designer's Design Book
+
+
 Grading:
 HW1 Quiz: 3/3
 HW1 Programming Assignment: 4/4
