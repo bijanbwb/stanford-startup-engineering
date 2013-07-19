@@ -3,7 +3,7 @@ CS184 Resources:
 Stanford Instance (Terminated)
 EC2 Instance: i-527a3667
 EC2 Link: ec2-54-218-14-45.us-west-2.compute.amazonaws.com
-Heroku Link: http://murmuring-waters-4618.herokuapp.com/
+Heroku Link: http://murmuring-waters-4618.herokuapp.com
 
 Coursera Instance (Terminated)
 EC2 Instance: i-f6dff7c3
@@ -12,7 +12,7 @@ Heroku Link: http://stormy-gorge-3159.herokuapp.com
 
 Current Instance:
 EC2 Instance: i-18d0992d
-EC2 Link: ec2-54-218-18-97.us-west-2.compute.amazonaws.com
+EC2 Link: http://ec2-54-213-64-179.us-west-2.compute.amazonaws.com:8080
 Heroku Link: http://cryptic-spire-7925.herokuapp.com
 
 
@@ -51,6 +51,7 @@ Heroku Documentation
 
 Design:
 The Non-Designer's Design Book
+MediaQueries
 
 
 Grading:
@@ -60,3 +61,5 @@ HW2 Quiz: 10/10
 HW2 Programming Assignment: NA
 HW3 Quiz: 15/15
 HW3 Programming Assignment:
+HW4 Quiz:
+HW4 Programming Assignment:
