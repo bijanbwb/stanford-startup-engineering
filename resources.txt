@@ -12,8 +12,9 @@ Heroku Link: http://stormy-gorge-3159.herokuapp.com
 
 Current Instance:
 EC2 Instance: i-18d0992d
-EC2 Link: http://ec2-54-213-64-179.us-west-2.compute.amazonaws.com:8080
-Heroku Link: http://cryptic-spire-7925.herokuapp.com
+Development: http://ec2-54-213-64-179.us-west-2.compute.amazonaws.com:8080
+Staging: http://bijanbwb-bitstarter-mooc.herokuapp.com
+Production: http://bijanbwb-bitstarter-s-mooc.herokuapp.com
 
 
 Startups:
@@ -43,6 +44,11 @@ Screen Tutorials
 Emacs Tutorials
 
 
+Git:
+Pro Git
+Git Reference
+
+
 Web Technologies:
 AWS Documentation
 Github Documentation
@@ -63,3 +69,8 @@ HW3 Quiz: 15/15
 HW3 Programming Assignment: 5/5
 HW4 Quiz: NA
 HW4 Programming Assignment: 3/3 (-10%)
+HW5 Quiz 1: 18/18
+HW5 Quiz 2 (Git): 10/10
+HW5 Quiz 3 (HTML): 10/10
+HW5 Quiz 4 (CSS): 12/12
+HW5 Programming Assignment: NA
