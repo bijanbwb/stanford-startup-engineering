@@ -13,8 +13,8 @@ Heroku Link: http://stormy-gorge-3159.herokuapp.com
 Current Instance:
 EC2 Instance: i-18d0992d
 Development: http://ec2-54-213-64-179.us-west-2.compute.amazonaws.com:8080
-Staging: http://bijanbwb-bitstarter-mooc.herokuapp.com
-Production: http://bijanbwb-bitstarter-s-mooc.herokuapp.com
+Staging: http://bijanbwb-bitstarter-s-mooc.herokuapp.com
+Production: http://bijanbwb-bitstarter-mooc.herokuapp.com
 
 
 Startups:
@@ -60,6 +60,10 @@ The Non-Designer's Design Book
 MediaQueries
 
 
+SQL:
+Learn SQL the Hard Way
+
+
 Grading:
 HW1 Quiz: 3/3
 HW1 Programming Assignment: 4/4
@@ -73,4 +77,6 @@ HW5 Quiz 1: 18/18
 HW5 Quiz 2 (Git): 10/10
 HW5 Quiz 3 (HTML): 10/10
 HW5 Quiz 4 (CSS): 12/12
-HW5 Programming Assignment: NA
+HW5 Programming Assignment: 
+HW6 Quiz: NA
+HW6 Programming Assignment: 4/4
