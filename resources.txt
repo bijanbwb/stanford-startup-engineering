@@ -16,7 +16,6 @@ Development: http://ec2-54-213-64-179.us-west-2.compute.amazonaws.com:8080
 Staging: http://bijanbwb-bitstarter-s-mooc.herokuapp.com
 Production: http://bijanbwb-bitstarter-mooc.herokuapp.com
 
-
 Startups:
 Peter Thiel CS183
 Paul Graham Essays
@@ -39,7 +38,7 @@ Bash Command Line Shortcuts
 A Practical Guide to Linux
 Unix and Linux System Administration Handbook
 Unix Power Tools
-Pro Git
+tmux Pragmatic Book
 Screen Tutorials
 Emacs Tutorials
 
@@ -60,23 +59,24 @@ The Non-Designer's Design Book
 MediaQueries
 
 
-SQL:
+Data:
 Learn SQL the Hard Way
+async, Express, Sequelize
+PostgreSQL
+Object-Relational Mapper (ORM)
 
 
 Grading:
 HW1 Quiz: 3/3
 HW1 Programming Assignment: 4/4
 HW2 Quiz: 10/10
-HW2 Programming Assignment: NA
 HW3 Quiz: 15/15
 HW3 Programming Assignment: 5/5
-HW4 Quiz: NA
+HW4 Quiz: 13/13
 HW4 Programming Assignment: 3/3 (-10%)
 HW5 Quiz 1: 18/18
 HW5 Quiz 2 (Git): 10/10
 HW5 Quiz 3 (HTML): 10/10
 HW5 Quiz 4 (CSS): 12/12
-HW5 Programming Assignment: 
-HW6 Quiz: NA
 HW6 Programming Assignment: 4/4
+HW7 Quiz 5: 24/25
